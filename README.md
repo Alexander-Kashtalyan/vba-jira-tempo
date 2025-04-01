@@ -14,7 +14,7 @@ Your support for the development of this tool is greatly appreciated - <a href="
 
 If you find the tool useful, please consider contributing to its further improvement. I welcome any ideas or suggestions for enhancing the solution.<br/>
 
-Tested in Windows Microsoft Excel 2019 Professional Plus and Microsoft 365 Apps (Excel) for Enterprise desktop versions.
+Tested under Windows 10 and 11 in Microsoft Excel 2019 Professional Plus and Microsoft 365 Apps (Excel) for Enterprise desktop versions.
 </br>
 <p>
 Installation</br>
